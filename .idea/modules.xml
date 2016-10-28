@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WebApplication.iml" filepath="$PROJECT_DIR$/WebApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebApplication.iml" filepath="$PROJECT_DIR$/.idea/modules/WebApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebApplication_main.iml" filepath="$PROJECT_DIR$/.idea/modules/WebApplication_main.iml" group="WebApplication" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebApplication_test.iml" filepath="$PROJECT_DIR$/.idea/modules/WebApplication_test.iml" group="WebApplication" />
     </modules>
   </component>
 </project>
